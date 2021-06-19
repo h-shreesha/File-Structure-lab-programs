@@ -1,5 +1,3 @@
-
-10|shreesha|ise|6
-20|pritvi|ise|6
-30|nikitha|ise|6
-40|lachhi|ise|6
+4mt18is053|Shreesha|ISE|6#4mt18is040|Pritvi|ISE|6#10|Shreesha|ISE|6#20|Pritvi|ISE|6#Shreesha|10|ise|6
+*oori|11|ise|6
+Pritvi|12|ise|6
